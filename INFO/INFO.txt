@@ -4,7 +4,7 @@ What is here:
 - ts compilation
 - class example
 - linking few .ts files and compile them into one output.
-
+- compiling with grunt (gulp analogue)
 
 Further education:
 
