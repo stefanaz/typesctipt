@@ -1,0 +1,13 @@
+What is here: 
+
+- intro to Types
+- ts compilation
+- class example
+- linking few .ts files and compile them into one output.
+
+
+Further education:
+
+http://www.typescriptlang.org/docs/handbook/basic-types.html
+
+
